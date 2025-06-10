@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/unizontech/go-design-patterns/strategy"
+	"go-design-patterns/strategy"
 )
 
 func main() {
